@@ -4,6 +4,16 @@
 
 用户已确认 NEKOPARA After 的剧情正文转换生效。主菜单和设置界面的图片文字不在当前补丁的转换范围内；其他版本尚未验证。
 
+## 效果对比
+
+以下为用户提供的 NEKOPARA After 实机截图，展示同一句剧情对白的繁简转换效果。
+
+| 使用前：繁体中文 | 使用后：简体中文 |
+| --- | --- |
+| ![使用前，剧情正文为繁体中文](images/before.png) | ![使用后，剧情正文转换为简体中文](images/after.png) |
+
+例如：`妳儘管一直燒開水` → `你尽管一直烧开水`。图片中的角色名字及界面图标保持原样。
+
 ## 下载与安装
 
 从 [Releases](https://github.com/half-drop/NEKOPARA-T2S/releases/latest) 下载 `NEKOPARA-T2S.zip`。
